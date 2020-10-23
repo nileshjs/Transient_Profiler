@@ -1,2 +1,2 @@
 # Transient_Profiler
-Various type of analyses specific to the Transient dranainge basin. 
+Various types of analyses specific to the Transient drainage basin. 
